@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+    font-family: 'Sometype Mono', monospace;
+}
+header p{
+    border-top: 1px solid #ffa500;
+    background-color: beige;
+}
+body{
+    font-family: 'Sometype Mono', monospace;
+}
+main{
+    width: 1024px;
+    margin: auto;
+    padding-left: 200px;
+}
+article{
+    border-left: solid 1px #ffa500;
+    padding-left: 10px;
+}
+li{
+    padding: 3px;
+}
+div p{
+    font-size: 15px;
+}
+figcaption{
+    text-align: center;
+    padding-right: 150px;
+}
+img{
+    text-align: center;
+    box-shadow: 5px 5px 5px #000
+}
+#unico{
+    list-style-type: none
+}
+iframe{
+    padding-left: 450px ;
+}
