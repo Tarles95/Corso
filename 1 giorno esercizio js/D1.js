@@ -11,14 +11,15 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA
+/*SCRIVI QUI LA TUA RISPOSTA
   In javascript troviamo i dati primitivi e i dati complessi.
   Conosciamo 5 tipi di dati primitivi e sono
   1) Numeri, unica sequenza per i numeri e per  di tipo di numero (intero, decimale, negativo) 
   2) Stringa, è una sequenza di caratteri, delimitata da apici (doppi o singoli)
   3) Booleano, il quale ha solo due valori: True|False
   4) Null, il quale prevede un solo valore possibile: null; e non rientra nei precedenti tipo di dato
-  5) Undefined, il quale prevede solo un valore: undefined. Rappresenta un valore che non esiste, e non ha assegnato nessun valore  */
+  5) Undefined, il quale prevede solo un valore: undefined. Rappresenta un valore che non esiste, e non ha assegnato nessun valore
+  Tutti gli altri tipi di dati sono dati oggetto; negli oggetti noi possiamo inserire proprietà (coppie attributo valore) e/o metodi (funzioni)*/  
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
